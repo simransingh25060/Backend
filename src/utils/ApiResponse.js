@@ -8,6 +8,8 @@ class ApiResponse {
     }
 }
 
+export {ApiResponse}
+
 //statusCode:
 //informational(100-199)
 //success(200-299)
